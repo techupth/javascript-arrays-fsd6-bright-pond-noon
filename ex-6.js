@@ -1,8 +1,10 @@
 const student = {
   name: "John Doe",
   grade: 12,
+  age: 18,
   subjects: ["Math", "Science", "History"],
 };
+
 
 student.age = 18  ;
 
