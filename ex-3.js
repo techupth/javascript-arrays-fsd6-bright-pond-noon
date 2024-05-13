@@ -2,7 +2,7 @@ const employees = [
   {
     name: "James",
     age: 40,
-    hobbies: ["Football", "Social media"],
+    hobbies: ["Football", "Social media", ],
   },
   {
     name: "Alex",
@@ -12,3 +12,7 @@ const employees = [
 ];
 
 // Start coding here
+
+employees[1].hobbies.push("Watching basketball")
+
+console.log(employees[1].hobbies)
