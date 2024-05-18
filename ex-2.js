@@ -20,7 +20,6 @@ console.log(alexHobbies);
 console.log(alexAndJamesAge)
 =======
 let alexAndJamesAge = employees[0].age + employees[1].age;
-
 console.log(alex);
 console.log(alexHobbies);
 console.log(alexAndJamesAge);
